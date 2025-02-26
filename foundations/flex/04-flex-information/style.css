@@ -24,3 +24,26 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* My css */
+.section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  margin-bottom: 32px;
+}
+
+.plants {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+  text-align: center;
+  flex-wrap: wrap;
+}
+
+.items {
+  width: 200px;
+}
